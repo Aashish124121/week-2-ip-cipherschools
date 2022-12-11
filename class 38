@@ -11,7 +11,7 @@
 </body>
 </html>	
 
-css coad: to change color
+css code: to change color
 h1{
    color:green;
    color:rgb(12,23,54);
